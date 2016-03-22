@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					698BA3AB1C9EC42A00FAE6F0 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = CA38LV2V6P;
 					};
 					698BA3BF1C9EC42A00FAE6F0 = {
 						CreatedOnToolsVersion = 7.3;
@@ -401,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Matrix/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Jay.Matrix;
@@ -412,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Matrix/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Jay.Matrix;
@@ -484,6 +487,7 @@
 				698BA3D61C9EC42A00FAE6F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		698BA3D71C9EC42A00FAE6F0 /* Build configuration list for PBXNativeTarget "MatrixTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +496,7 @@
 				698BA3D91C9EC42A00FAE6F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		698BA3DA1C9EC42A00FAE6F0 /* Build configuration list for PBXNativeTarget "MatrixUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +505,7 @@
 				698BA3DC1C9EC42A00FAE6F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
